@@ -1,0 +1,102 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "John"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "users": [
+      {
+        "id": 1646711957123,
+        "name": "John",
+        "img": "https://petersfoodadventures.com/wp-content/uploads/2019/05/Buttermilk-Pancakes-1024x767.jpg",
+        "naxi": 25000
+      },
+      {
+        "id": 1646712118319,
+        "name": "samir",
+        "img": "https://littlespicejar.com/wp-content/uploads/2016/09/Buttermilk-Pancakes.jpg",
+        "naxi": 30000
+      },
+      {
+        "id": 1646719635457,
+        "name": "Akmal",
+        "img": "https://static.wikia.nocookie.net/ronaldmcdonald/images/0/0e/Deluxe_Big_Breakfast.jpg/revision/latest?cb=20120125174413",
+        "naxi": 25000
+      },
+      {
+        "id": 1646719731713,
+        "name": "Muhammad",
+       "img": "https://resto.uz/data/resto/43/4250/palovxon-osh-markazi-2874.jpg",
+        "naxi": 23000
+      },
+      {
+        "id": 1646719812342,
+        "name": "Sardor",
+        "img": "https://simply-delicious-food.com/wp-content/uploads/2019/07/Pancake-board-3.jpg",
+        "naxi": 17000
+      },
+      {
+        "id": 1646719969840,
+        "name": "timur",
+        "img": "https://www.jocooks.com/wp-content/uploads/2020/10/club-sandwich-1-9-750x938.jpg",
+        "naxi": 17000
+      },
+      {
+        "id": 1646720032215,
+        "name": "brown",
+        "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/07/16/0/FNM_090120-Classic-Shrimp-Scampi_s4x3.jpg.rend.hgtvcom.616.462.suffix/1594915956100.jpeg",
+        "naxi": 22000
+      },
+      {
+        "id": 1646720120159,
+        "name": "lol",
+        "img": "http://assets.kraftfoods.com/recipe_images/opendeploy/62663_640x428.jpg",
+        "naxi": 17000    
+      },
+      {
+        "id": 1646720283323,
+        "name": "sing",
+        "img": "sing1",
+        "naxi": 19000
+      },
+      {
+        "id": 1646720283323,
+        "name": "sing",
+        "img": "https://media.istockphoto.com/photos/lagman-asian-soup-with-meat-vegetables-and-noodles-dark-table-uzbek-picture-id1366651782?k=20&m=1366651782&s=612x612&w=0&h=2BrX--G3gicHbWigaFI5MsQMv2jQI-0PNezorn982j0=",
+        "naxi": 19000
+      },
+      {
+        "id": 1646720283323,
+        "name": "sing",
+        "img": "https://images.kitchenstories.io/wagtailOriginalImages/R2339-photo-final-3/R2339-photo-final-3-large-landscape-150.jpg",
+        "naxi": 24000
+      },
+      {
+        "id": 1646720448473,
+        "name": "dima",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/peach-strawberry-fizz-drink-1528145920.jpg",
+        "naxi": 20000
+      },
+      {
+        "id": 1646721205558,
+        "name": "dell",
+        "img": "https://www.acouplecooks.com/wp-content/uploads/2020/10/Vodka-Spritzer-011.jpg",
+        "naxi": 18000
+      },
+      {
+        "id": 1646721243888,
+        "name": "dell",
+        "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2021%2F06%2F07%2F32352_BestStrawberryDaiquiri_237.jpg",
+        "naxi": 15000
+      }
+    ]
+  }
