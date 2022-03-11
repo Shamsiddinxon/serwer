@@ -29,9 +29,22 @@
       {
         "id": 1646719635457,
         "name": "Akmal",
-        "img": "https://static.wikia.nocookie.net/ronaldmcdonald/images/0/0e/Deluxe_Big_Breakfast.jpg/revision/latest?cb=20120125174413",
+        "img": "https://www.cocinayvino.com/wp-content/uploads/2017/05/27708026_ml-e1496172510132.jpg",
         "naxi": 25000
       },
+      {
+        "id": 16406719635457,
+        "name": "Akmal",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThASCq0sJ_fewSIl3UQHRQ5v_q-HoHaWU-KkBbR3-yZG6CN8pHFrbEPSA6ogDl_DbcSb4&usqp=CAU",
+        "naxi": 50000
+      },
+      {
+        "id": 16416719635457,
+        "name": "Akmal",
+        "img": "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/300/steak.jpg",
+        "naxi": 45000
+      },
+
       {
         "id": 1646719731713,
         "name": "Muhammad",
